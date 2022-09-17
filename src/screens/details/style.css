@@ -1,0 +1,59 @@
+.details_image{
+    width: 100%;
+    height: auto;
+    padding-right: 30px;
+    
+}
+
+.img3{
+         width: 30vw;
+         height: 75vh;
+         margin-top: 100px;
+}
+
+.details_name{
+    font-size: 28px;
+    color:rgb(50, 48, 48);
+    font-weight: 400;
+    margin-top: 100px;
+}
+
+.details_actual_price{
+    text-decoration: line-through;
+    font-size: 20px;
+}
+
+.details_discount_price{
+    margin-left: 20px;
+    font-size: 20px;
+}
+.inc,.dec,.quantity{
+    height: 60px;
+    width: 60px;
+    border: 1px solid silver;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.inc,.dec{
+    cursor: pointer;
+}
+.incdec{
+    display: flex;
+}
+.details_info{
+    margin-top: 30px;
+}
+.btn-default{
+    margin-left: 10px;
+    width: 100%;
+    border: none;
+    background-color: gray;
+    border-radius: 25px;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+}
+.details_p{
+    margin-top: 15px;
+}

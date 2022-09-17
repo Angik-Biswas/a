@@ -1,0 +1,52 @@
+.img {
+    height: auto;
+    width: 100%;
+  }
+  .row {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    margin-right: 30px;
+  }
+  
+  .col-3 {
+    width: 25%;
+  }
+  .mtb-30 {
+    margin: 30px auto;
+  }
+  .product {
+    padding: 30px;
+    width: 100%;
+    overflow: hidden;
+    
+  }
+  
+  .name {
+    margin: 10px 0;
+    text-transform: capitalize;
+    color: rgb(128, 130, 131);
+  }
+  
+  .col-6 {
+    width: 50%;
+  }
+  .s2 {
+    color: silver;
+    font-weight: 400;
+    font-size: 13px;
+  }
+  
+  .actual_price {
+    text-decoration: line-through;
+    font-size: 18px;
+  }
+  
+  .dp {
+    font-size: 18px;
+  }
+
+  .product_image{
+                 margin-right: 25px;
+  }
+ 

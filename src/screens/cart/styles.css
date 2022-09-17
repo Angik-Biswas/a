@@ -1,0 +1,95 @@
+.cartpage{
+      margin-top: 100px;
+      margin-left: 50px;
+      width: 100%;
+}
+
+.cartpage h3{
+    font-weight: 400;
+}
+
+.col-2{
+    width: 8vw;
+}
+.col-9{
+    width: 49%;
+    margin-right: 5px;
+}
+
+.cart_heading{
+    background-color: silver;
+    padding: 5px;
+}
+.p_i{
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+}
+
+.inc1,.dec1,.quantity1{
+    height: 30px;
+    width: 30px;
+    border: 1px solid silver;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.inc1,.dec1{
+    cursor: pointer;
+}
+.incdec1{
+    display: flex;
+    margin-top: 5px;
+}
+.Icon1{
+    height: 15px;
+    width: 15px;
+}
+
+.Icon2{
+    height: 25px;
+    width: 25px;
+} 
+
+.vertical-aling{
+    align-items: center;
+    display: flex;
+}
+.cart_remove{
+    cursor: pointer;
+}
+.summery{
+    padding-left: 10px;
+    width: 15vw;
+   
+}
+.summery_heading{
+    background-color: silver;
+    padding: 5px;
+}
+.ti{
+    display: flex;
+}
+.summery_details{
+    background-color: rgb(195, 104, 71);
+    color: white;
+}
+
+.mb{
+    margin-bottom: 10px;
+  
+}
+.checkout{
+    border: none;
+    cursor: pointer;
+    outline: none;
+    background: yellow;
+    color:  rgb(195, 104, 71);
+    width: 80%;
+    border-radius: 15px;
+    margin-bottom: 5px;
+    height: 5vh;
+    margin-left: 20px;
+    font-size: 17px;
+}
